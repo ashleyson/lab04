@@ -1,2 +1,2 @@
 # mazeSolver
-Utilizing a Stack to solve a maze
+A program that utilizes a Stack to solve a maze
